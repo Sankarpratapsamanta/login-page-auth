@@ -1,0 +1,42 @@
+.register_heading{
+    color: red;
+}
+.form_content{
+    text-align: center;
+    
+}
+.form{
+    display: grid;
+    margin: 5% 25%;
+    width: 50%;
+}
+.form_input{
+    padding: 15px;
+    margin: 2%;
+    font-size: 25px;
+    border: none;
+    border-bottom: 3px solid black;
+}
+.form_input:focus{
+    border: none;
+    outline: none;
+    border-bottom: 3px solid green;
+
+}
+.form_input_btn{
+    width: 50%;
+    margin: 3% 25%;
+    padding: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.form_input_btn{
+    border: none;
+    outline:none;
+}
+.form_input_btn:focus{
+    border: none;
+    outline:none;
+}

@@ -1,0 +1,8 @@
+.form_input_btn{
+    border: none;
+    outline:none;
+}
+.form_input_btn:focus{
+    border: none;
+    outline:none;
+}
